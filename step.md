@@ -23,5 +23,8 @@ $ cd ../../../
 npm run e2e
 ```
 
+### shell に実装
+- e2e.sh に実装
+
 ### 参考
 - [Angular Testing with Headless Chrome](https://blog.angularindepth.com/angular-testing-with-headless-chrome-d1343b349699)
