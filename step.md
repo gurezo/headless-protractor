@@ -3,7 +3,11 @@
 - capabilities 内に下記内容追記
 ```
     chromeOptions: {
-      args: ["--headless"]
+      args: [
+        '--headless',
+        '--no-sandbox',
+        '--disable-gpu'
+      ]
     },
 ```
 
